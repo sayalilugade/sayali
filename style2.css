@@ -1,0 +1,44 @@
+#p1
+{
+    background-color: aqua;
+    height: 300px;
+    width: auto;
+}
+#p2
+{
+    background-color: brown;
+    height: 300px;
+    width: 453px;
+    float: left;
+}
+#p3
+{
+    background-color: rgb(189, 61, 161);
+    height: 300px;
+    width: 490px;
+    float: left ;
+}
+#p4
+{
+    background-color: blue;
+    height: 300px;
+    width: 453px;
+    float: left;
+}
+
+#p6
+{
+    padding-bottom:350px ;
+    background-color: aquamarine;
+    height: 300px;
+    width: auto;
+
+}
+#p7
+{
+    background-image: url(chennia.webp);
+    height: 250px;
+    width: 400px;
+    margin: 50px;
+    float: right;
+}
